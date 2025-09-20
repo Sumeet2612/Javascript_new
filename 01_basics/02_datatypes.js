@@ -15,7 +15,10 @@ let state = null
 
 // string => ""
 // boolean => true/false
-// null  => standalopne value 
+// null  => standalone value 
 // undefined =>
 //symbol => unique 
 //
+
+console.log(typeof age)
+console.log(typeof null) // object 
