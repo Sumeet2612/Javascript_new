@@ -26,3 +26,11 @@ const newStringOne = "   Sumeet   "
 console.log(newStringOne);
 console.log(newStringOne.trim());
 
+const url = "https://sumeet.com/sumeet%20kumar"
+
+console.log(url.replace('%20','-'))
+
+console.log(url.includes('sumeet'))
+console.log(url.includes('sundar'))
+
+console.log(gamename.split('-'));
