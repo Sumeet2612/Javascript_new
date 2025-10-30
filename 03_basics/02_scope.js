@@ -44,7 +44,7 @@ function addone (num){
     return num + 1
 }
 
-const addTwo = function (num){
+const addTw o = function (num){
     return num +2 
 }
 
