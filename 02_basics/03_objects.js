@@ -25,15 +25,15 @@ const Jsuser = {
 Jsuser.email = "sumeet@gmail.com"
 // Object.freeze(Jsuser)
 Jsuser.email = "hitesh@chatgpt.com"
-// console.log(Jsuser);
+console.log(Jsuser);
 
-Jsuser.greeting = function () {
-    console.log("Hello User");
-}
+// Jsuser.greeting = function () {
+//     console.log("Hello User");
+// }
 
-Jsuser.greetingTwo = function () {
-    console.log(`Hello Js user, ${this.name}`);
-}
+// Jsuser.greetingTwo = function () {
+//     console.log(`Hello Js user, ${this.name}`);
+// }
 
-console.log(Jsuser.greeting());
-console.log(Jsuser.greetingTwo());
+// console.log(Jsuser.greeting());
+// console.log(Jsuser.greetingTwo());
