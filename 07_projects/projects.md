@@ -4,9 +4,10 @@
 
 # Solution code
 
-## Project 1
+## Project 1 : Color Changer 
 
-```javascript 
-log.console("Sumeet")
+```javascript
+
+
 
 ```
